@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "morlana-dns-2",
     "status": "down",
-    "uptime": "95.71%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "95.71%",
+    "uptime": "95.29%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.29%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-09-10": 7
+      "2024-09-10": 9
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "morlana-do-t-1",
     "status": "down",
-    "uptime": "95.71%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "95.71%",
+    "uptime": "95.29%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.29%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-09-10": 7
+      "2024-09-10": 9
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "morlana-do-t-2",
     "status": "down",
-    "uptime": "95.71%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "95.71%",
+    "uptime": "95.29%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.29%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-09-10": 7
+      "2024-09-10": 9
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 174
+      "2024-09-10": 183
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/580.ico",
     "slug": "morlana-dns-2",
     "status": "down",
-    "uptime": "95.69%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.69%",
+    "uptime": "95.26%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "95.26%",
+    "uptimeYear": "95.26%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-09-10": 7
+      "2024-09-10": 9
     }
   },
   {
@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "morlana-do-t-1",
     "status": "down",
-    "uptime": "95.69%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.69%",
+    "uptime": "95.27%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "95.27%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-09-10": 7
+      "2024-09-10": 9
     }
   },
   {
@@ -215,18 +215,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "morlana-do-t-2",
     "status": "down",
-    "uptime": "95.69%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.69%",
+    "uptime": "95.27%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "95.27%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-09-10": 7
+      "2024-09-10": 9
     }
   }
 ]
