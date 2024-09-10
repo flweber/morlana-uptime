@@ -38,20 +38,32 @@ sites:
     url: 2a0a:4cc0:1:1221:349e:80ff:fe15:55e8
     port: 53
     ipv6: true
-  - name: Morlana DNS 2
+  - name: Morlana DNS 2 v6
     check: "tcp-ping"
     url: 2a0f:580:7:1e::6
     port: 53
     ipv6: true
-  - name: Morlana DoT 1
+  - name: Morlana DoT 1 v6
     check: "tcp-ping"
     url: dns1.morlana.net
     port: 853
     ipv6: true
-  - name: Morlana DoT 2
+  - name: Morlana DoT 2 v6
     check: "tcp-ping"
     url: dns2.morlana.net
     port: 853
+    ipv6: true
+  - name: Morlana DoH 1 v6
+    url: https://dns1.morlana.net/dns-query
+    expectedStatusCodes:
+      - 200
+      - 400
+    ipv6: true
+  - name: Morlana DoH 2 v6
+    url: https://dns2.morlana.net/dns-query
+    expectedStatusCodes:
+      - 200
+      - 400
     ipv6: true
 
 status-website:
