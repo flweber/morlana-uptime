@@ -1,7 +1,7 @@
 url: dns2.morlana.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-10T17:32:09.801Z
+status: up
+code: 200
+responseTime: 108
+lastUpdated: 2024-09-10T17:39:42.151Z
 startTime: 2024-09-10T15:00:31.756Z
 generator: Upptime <https://github.com/upptime/upptime>
