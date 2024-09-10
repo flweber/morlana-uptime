@@ -1,36 +1,75 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: flweber # Your GitHub organization or username, where this repository lives
+repo: morlana-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Morlana Linktree
+    url: https://tree.morlana.link
+  - name: Morlana DNS 1
     check: "tcp-ping"
+    url: 152.53.17.185
+    port: 53
+  - name: Morlana DNS 2
+    check: "tcp-ping"
+    url: 45.83.247.102
+    port: 53
+  - name: Morlana DoT 1
+    check: "tcp-ping"
+    url: dns1.morlana.net
+    port: 853
+  - name: Morlana DoT 2
+    check: "tcp-ping"
+    url: dns2.morlana.net
+    port: 853
+  - name: Morlana DoH 1
+    url: https://dns1.morlana.net/dns-query
+    expectedStatusCodes:
+      - 200
+      - 400
+  - name: Morlana DoH 2
+    url: https://dns2.morlana.net/dns-query
+    expectedStatusCodes:
+      - 200
+      - 400
+  - name: Phantom Bot
+    url: https://phantom.thephoenixdi.vision
+  - name: Morlana DNS 1 v6
+    check: "tcp-ping"
+    url: 2a0a:4cc0:1:1221:349e:80ff:fe15:55e8
+    port: 53
+    ipv6: true
+  - name: Morlana DNS 2
+    check: "tcp-ping"
+    url: 2a0f:580:7:1e::6
+    port: 53
+    ipv6: true
+  - name: Morlana DoT 1
+    check: "tcp-ping"
+    url: dns1.morlana.net
+    port: 853
+    ipv6: true
+  - name: Morlana DoT 2
+    check: "tcp-ping"
+    url: dns2.morlana.net
+    port: 853
     ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.morlana.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://tree.morlana.link/assets/img/1_1715608887.png
+  name: Morlana Status
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
+    - title: Home
+      href: https://tree.morlana.link/@Morlana
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/MORINC
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
