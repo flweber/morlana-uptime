@@ -136,9 +136,9 @@
     "url": "https://phantom.thephoenixdi.vision",
     "icon": "https://icons.duckduckgo.com/ip3/phantom.thephoenixdi.vision.ico",
     "slug": "phantom-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,6 +147,8 @@
     "timeWeek": 2054,
     "timeMonth": 977,
     "timeYear": 884,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   }
 ]
