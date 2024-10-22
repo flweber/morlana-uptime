@@ -40,11 +40,11 @@
     "url": "45.83.247.102",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "morlana-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 116,
     "timeDay": 157,
@@ -52,6 +52,7 @@
     "timeMonth": 123,
     "timeYear": 116,
     "dailyMinutesDown": {
+      "2024-10-22": 3,
       "2024-09-10": 17
     }
   },
@@ -80,10 +81,10 @@
     "url": "dns2.morlana.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "morlana-do-t-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 116,
@@ -92,6 +93,7 @@
     "timeMonth": 123,
     "timeYear": 116,
     "dailyMinutesDown": {
+      "2024-10-22": 2,
       "2024-09-10": 17
     }
   },
@@ -118,10 +120,10 @@
     "url": "https://dns2.morlana.net/dns-query",
     "icon": "https://icons.duckduckgo.com/ip3/dns2.morlana.net.ico",
     "slug": "morlana-do-h-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
@@ -129,25 +131,28 @@
     "timeWeek": 449,
     "timeMonth": 425,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 2
+    }
   },
   {
     "name": "Phantom Bot",
     "url": "https://phantom.thephoenixdi.vision",
     "icon": "https://icons.duckduckgo.com/ip3/phantom.thephoenixdi.vision.ico",
     "slug": "phantom-bot",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.95%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 2048,
     "timeDay": 870,
     "timeWeek": 5906,
     "timeMonth": 2607,
     "timeYear": 2048,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-10-20": 207
     }
   }
